@@ -1,3 +1,7 @@
+%% Disclaimer
+% Please note: this program is incomplete and is need of development. The microphone readings need to be 
+% converted to acoustice pressure readings still
+
 %% Tube geometry and preliminary variable configuration
 x1 = 1;     % in, distance between reference mic and beginning of specimen
 s = 4;      % in, distance between mics 
